@@ -37,7 +37,7 @@
 
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=django,react,tailwind,bootratp" />
+    <img src="https://skillicons.dev/icons?i=django,flask,react,tailwind,bootratp" />
   </a>
 
 
@@ -53,7 +53,7 @@
 
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,bash,idea,vscode,npm,notion,bitbucket,html,css," />
+    <img src="https://skillicons.dev/icons?i=git,github,bash,vscode,idea,githubactions,npm,notion,bitbucket,html,css," />
   </a>
 
 
