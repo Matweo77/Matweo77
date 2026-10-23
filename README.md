@@ -53,7 +53,7 @@
 
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,bash,vscode,idea,githubactions,npm,notion,bitbucket,html,css," />
+    <img src="https://skillicons.dev/icons?i=git,github,githubactions,postman,bitbucket,bash,vscode,idea,npm,notion,html,css," />
   </a>
 
 
